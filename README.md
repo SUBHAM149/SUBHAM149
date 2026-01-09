@@ -86,31 +86,37 @@
 
 ---
 
-## 📈 GitHub Stats
+## 🚀 GitHub Performance
+<h2 align="center">🚀 GitHub Performance</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=subham149&show_icons=true&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=subham149&theme=github_dark" />
+
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?username=subham149&theme=tokyonight" />
+  <img
+    src="https://streak-stats.demolab.com?user=subham149&theme=react&hide_border=true"
+    height="180"
+    alt="GitHub Streak"
+  />
 </p>
 
----
 
 ## 🤝 Connect With Me
 
 <p align="center">
   <a href="https://github.com/subham149">
-    <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white"/>
+    <img src="https://img.shields.io/badge/GitHub-Profile-2ea44f?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
   <a href="https://www.linkedin.com/in/subham-behera07">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="subhambehera04.03.2005@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <a href="mailto:subhambehera04.03.2005@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-Send%20Mail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
+
 
 ---
 
