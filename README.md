@@ -1,111 +1,113 @@
-<!-- 💻 GITHUB PROFILE README FOR SUBHAM BEHERA (Professional + Programmer GIF) -->
-
-<h1 align="center">👋 Hi, I'm <span style="color:#00bfff;">SUBHAM BEHERA</span></h1>
-<h3 align="center">💻 Java Full Stack Developer</h3>
+<h1 align="center">Hi 👋, I'm Subham Behera</h1>
+<h3 align="center">Java Full Stack Developer | Naresh IT Technologies</h3>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300px" alt="Man typing on laptop GIF">
-  
-  
-  
+  <img src="https://readme-typing-svg.herokuapp.com?color=0D6EFD&size=24&center=true&vCenter=true&width=750&lines=Java+Full+Stack+Developer;Frontend+%7C+Backend+%7C+Database;Spring+Boot+%7C+React+%7C+MySQL;Building+Premium+Web+Applications" />
+</p>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="360"/>
 </p>
 
 ---
 
-### 👨‍💻 About Me  
-💼 Full Stack Developer specializing in **Java, Spring Boot, React, and MySQL**  
-🎯 Dedicated to building **scalable, efficient, and user-friendly applications**  
-📚 Passionate about continuous learning in **Web Development & DevOps**  
-⚡ Fun Fact: I can turn caffeine ☕ into clean code!  
+## 👨‍💻 About Me
+
+🚀 Java Full Stack Developer with strong interest in **premium UI & scalable backend systems**  
+🎓 Currently studying at **Naresh IT Technologies**  
+💡 I enjoy building real-world, responsive, and user-focused web applications  
+🌱 Learning **Spring Boot, React, REST APIs**
 
 ---
 
-### ⚙️ Tech Stack  
-
-**Frontend:**  
-![HTML](https://img.shields.io/badge/HTML5-orange?logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-blue?logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-yellow?logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?logo=bootstrap&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?logo=tailwindcss&logoColor=white)
-
-**Backend:**  
-![Java](https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?logo=springboot&logoColor=white)
-![Hibernate](https://img.shields.io/badge/Hibernate-59666C?logo=hibernate&logoColor=white)
-
-**Database:**  
-![MySQL](https://img.shields.io/badge/MySQL-005C84?logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?logo=mongodb&logoColor=white)
-
-**Tools & DevOps:**  
-![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
-![Maven](https://img.shields.io/badge/Maven-C71A36?logo=apachemaven&logoColor=white)
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?logo=jenkins&logoColor=white)
-
----
-
-### 💻 Featured Projects  
-
-| Project | Description | Tech Stack | Demo |
-|----------|--------------|-------------|------|
-| 🛍️ **E-Shopper** | Full stack e-commerce website with authentication, product management, and cart system. | Java, Spring Boot, React, MySQL | [🎥 Watch Demo](#) |
-| 📚 **Student Management System** | CRUD app for managing students and courses. | Java, Spring Boot, Thymeleaf, MySQL | [🎥 Watch Demo](#) |
-| 💬 **ChatApp** | Real-time messaging app using WebSocket. | Java, Spring Boot, React | [🎥 Watch Demo](#) |
-| 🧾 **Expense Tracker** | Tracks personal expenses and generates monthly reports. | React, Spring Boot, MongoDB | [🎥 Watch Demo](#) |
-
----
-
-### 🎬 My Demo Videos  
-🎥 [Portfolio Website Demo](#)  
-🎥 [Spring Boot REST API Project](#)  
-🎥 [Full Stack CRUD App Demo](#)  
-🎥 [Java + React Integration Project](#)  
-
-*(Replace `#` with your YouTube or Loom video links when ready!)*
-
----
-
-### 🧠 Learning Goals  
-- ☁️ Deploying full stack apps on **AWS / Render / Vercel**  
-- 🧩 Building **Microservices** using Spring Cloud  
-- ⚡ Improving **System Design & Scalability** skills  
-
----
+## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://media.giphy.com/media/h408T6Y5GfmXBKW62l/giphy.gif" width="500px" alt="Programmer working GIF">
-
----
-
-### 📊 GitHub Stats  
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=subhambehera&show_icons=true&theme=radical" width="48%">
-  
+  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,react,java,spring,mysql,git,github,vscode,eclipse" />
 </p>
 
 ---
 
-### 📫 Connect with Me  
+## 🌟 Featured Live Projects
 
-🌐 **Portfolio:** [subhambehera.dev](#)  
-💼 **LinkedIn:** [linkedin.com/in/subham-behera](#)  
-💻 **GitHub:** [github.com/subhambehera](#)  
-✉️ **Email:** subhambehera@gmail.com  
+### 🔹 Personal Portfolio Website  
+🔗 Live: https://subham149.github.io/Personal-Portfolio-Frontend-Project/
+
+<img src="https://images.unsplash.com/photo-1522202176988-66273c2fd55f?auto=format&fit=crop&w=600&q=80" width="420"/>
+
+🛠️ **HTML • CSS • JavaScript**  
+✨ Clean layout • Smooth animation • Professional branding
 
 ---
 
-<p align="center">
-<img src="https://media.giphy.com/media/4rZA5D22301iMgrUNd/giphy.gif" width="400px" alt="Man typing GIF">
+### 🔹 Coffee Shop Frontend Project  
+🔗 Live: https://subham149.github.io/Cofee-FrontEnd-Project/
 
-  
+<img src="https://images.unsplash.com/photo-1495474472287-4d71bcdd2085?auto=format&fit=crop&w=600&q=80" width="420"/>
+
+🛠️ **HTML • CSS • JavaScript**  
+✨ Premium cafe UI • Product cards • Modern colors
+
+---
+
+### 🔹 Cake Shop Website  
+🔗 Live: https://subham149.github.io/Cake-Shop_Project/
+
+<img src="https://media.giphy.com/media/l3q2K5jinAlChoCLS/giphy.gif" width="420"/>
+
+🛠️ **HTML • CSS • JavaScript**  
+✨ Animated UI • E-commerce style product layout
+
+---
+
+### 🔹 Human Stories Website  
+🔗 Live: https://subham149.github.io/Humar-Stories-FrontEnd-Project/
+
+<img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="420"/>
+
+🛠️ **HTML • CSS • JavaScript**  
+✨ Storytelling design • Smooth transitions • Clean typography
+
+---
+
+### 🔹 TravelMate Booking Frontend  
+🔗 Live: https://subham149.github.io/TravelMate-Booking-Frontend-Project/
+
+<img src="https://media.giphy.com/media/3o7btPCcdNniyf0ArS/giphy.gif" width="420"/>
+
+🛠️ **HTML • CSS • JavaScript**  
+✨ Booking forms • Cards • Animated interactions
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=subham149&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?username=subham149&theme=tokyonight" />
 </p>
 
 ---
 
-<h3 align="center">⭐ “Code. Learn. Build. Repeat.” ⭐</h3>
+## 🤝 Connect With Me
+
+<p align="center">
+  <a href="https://github.com/subham149">
+    <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-ID">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:your-email@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+<p align="center">
+  💙 “Good design gets attention. Great code earns trust.”
+</p>
