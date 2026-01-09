@@ -32,8 +32,11 @@
 
 ### 🔹 Personal Portfolio Website  
 🔗 Live: https://subham149.github.io/Personal-Portfolio-Frontend-Project/
+<p align="center">
+<img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="280">
+</p>
 
-<img src="https://images.unsplash.com/photo-1522202176988-66273c2fd55f?auto=format&fit=crop&w=600&q=80" width="420"/>
+
 
 🛠️ **HTML • CSS • JavaScript**  
 ✨ Clean layout • Smooth animation • Professional branding
@@ -42,8 +45,10 @@
 
 ### 🔹 Coffee Shop Frontend Project  
 🔗 Live: https://subham149.github.io/Cofee-FrontEnd-Project/
+<p align="center">
+<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="280">
+</p>
 
-<img src="https://images.unsplash.com/photo-1495474472287-4d71bcdd2085?auto=format&fit=crop&w=600&q=80" width="420"/>
 
 🛠️ **HTML • CSS • JavaScript**  
 ✨ Premium cafe UI • Product cards • Modern colors
@@ -52,8 +57,9 @@
 
 ### 🔹 Cake Shop Website  
 🔗 Live: https://subham149.github.io/Cake-Shop_Project/
-
-<img src="https://media.giphy.com/media/l3q2K5jinAlChoCLS/giphy.gif" width="420"/>
+<p align="center">
+<img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="280">
+</p>
 
 🛠️ **HTML • CSS • JavaScript**  
 ✨ Animated UI • E-commerce style product layout
@@ -62,9 +68,9 @@
 
 ### 🔹 Human Stories Website  
 🔗 Live: https://subham149.github.io/Humar-Stories-FrontEnd-Project/
-
-<img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="420"/>
-
+<p align="center">
+<img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="280"/>
+</p>
 🛠️ **HTML • CSS • JavaScript**  
 ✨ Storytelling design • Smooth transitions • Clean typography
 
@@ -72,9 +78,9 @@
 
 ### 🔹 TravelMate Booking Frontend  
 🔗 Live: https://subham149.github.io/TravelMate-Booking-Frontend-Project/
-
-<img src="https://media.giphy.com/media/3o7btPCcdNniyf0ArS/giphy.gif" width="420"/>
-
+<p align="center">
+<img src="https://media.giphy.com/media/3o7btPCcdNniyf0ArS/giphy.gif" width="280"/>
+</p>
 🛠️ **HTML • CSS • JavaScript**  
 ✨ Booking forms • Cards • Animated interactions
 
