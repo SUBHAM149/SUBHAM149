@@ -4,7 +4,10 @@
 <h3 align="center">💻 Java Full Stack Developer</h3>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/4rZA5D22301iMgrUNd/giphy.gif" width="400px" alt="Man typing GIF">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300px" alt="Man typing on laptop GIF">
+  
+  
+  
 </p>
 
 ---
@@ -76,7 +79,6 @@
 
 <p align="center">
   <img src="https://media.giphy.com/media/h408T6Y5GfmXBKW62l/giphy.gif" width="500px" alt="Programmer working GIF">
-</p>
 
 ---
 
@@ -84,7 +86,7 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=subhambehera&show_icons=true&theme=radical" width="48%">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=subhambehera&layout=compact&theme=radical" width="48%">
+  
 </p>
 
 ---
@@ -99,11 +101,9 @@
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=subhambehera&color=blueviolet" alt="Profile views" />
-</p>
+<img src="https://media.giphy.com/media/4rZA5D22301iMgrUNd/giphy.gif" width="400px" alt="Man typing GIF">
 
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300px" alt="Man typing on laptop GIF">
+  
 </p>
 
 ---
