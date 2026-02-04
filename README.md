@@ -36,33 +36,9 @@
 <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="280">
 </p>
 
-
-
 🛠️ **HTML • CSS • JavaScript**  
 ✨ Clean layout • Smooth animation • Professional branding
 
----
-
-### 🔹 Coffee Shop Frontend Project  
-🔗 Live: https://subham149.github.io/Cofee-FrontEnd-Project/
-<p align="center">
-<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="280">
-</p>
-
-
-🛠️ **HTML • CSS • JavaScript**  
-✨ Premium cafe UI • Product cards • Modern colors
-
----
-
-### 🔹 Cake Shop Website  
-🔗 Live: https://subham149.github.io/Cake-Shop_Project/
-<p align="center">
-<img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="280">
-</p>
-
-🛠️ **HTML • CSS • JavaScript**  
-✨ Animated UI • E-commerce style product layout
 
 ---
 
@@ -76,16 +52,6 @@
 
 ---
 
-### 🔹 TravelMate Booking Frontend  
-🔗 Live: https://subham149.github.io/TravelMate-Booking-Frontend-Project/
-<p align="center">
-<img src="https://media.giphy.com/media/3o7btPCcdNniyf0ArS/giphy.gif" width="280"/>
-</p>
-🛠️ **HTML • CSS • JavaScript**  
-✨ Booking forms • Cards • Animated interactions
-
----
-
 ## 🚀 GitHub Performance
 <h2 align="center">🚀 GitHub Performance</h2>
 
@@ -96,11 +62,12 @@
 
 <p align="center">
   <img
-    src="https://streak-stats.demolab.com?user=subham149&theme=react&hide_border=true"
+    src="https://streak-stats.demolab.com?user=subham149&theme=prussian&hide_border=true"
     height="180"
     alt="GitHub Streak"
   />
 </p>
+
 
 
 ## 🤝 Connect With Me
