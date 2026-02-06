@@ -29,7 +29,20 @@
 ---
 
 ## 🌟 Featured Live Projects
+### 🔹 Travel Meta Project 
+🔗 Live: https://subham149.github.io/TravelMate-Booking-Frontend-Project/
+<p align="center">
+<img src="https://media.giphy.com/media/l0MYC0LajbaPoEADu/giphy.gif" alt="Travel Bag" width="280">
 
+
+
+</p>
+
+🛠️ **HTML • CSS • JavaScript**  
+✨ Clean layout • Smooth animation • Professional branding
+
+
+---
 ### 🔹 Personal Portfolio Website  
 🔗 Live: https://subham149.github.io/Personal-Portfolio-Frontend-Project/
 <p align="center">
