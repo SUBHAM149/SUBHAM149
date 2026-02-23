@@ -29,8 +29,8 @@
 ---
 
 ## 🌟 Featured Live Projects
-### 🔹 Travel Meta Project 
-🔗 Live: https://subham149.github.io/TravelMate-Booking-Frontend-Project/
+### 🔹 Bhadrak-Autonomous-College Project 
+🔗 Live: https://subham149.github.io/Bhadrak-Autonomous-College/
 <p align="center">
 <img src="https://media.giphy.com/media/l0MYC0LajbaPoEADu/giphy.gif" alt="Travel Bag" width="280">
 
