@@ -97,7 +97,7 @@
 
 <div align="center">
 
-![snake gif](https://raw.githubusercontent.com/SUBHAM149/SUBHAM149/output/github-snake-dark.svg)
+![snake gif](https://raw.githubusercontent.com/SUBHAM149/SUBHAM14/output/github-snake-dark.svg)
 
 </div>
 ---
