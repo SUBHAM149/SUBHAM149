@@ -16,9 +16,17 @@
   <img src="https://img.shields.io/badge/React-Frontend-blue?style=for-the-badge&logo=react"/>
   <img src="https://img.shields.io/badge/MySQL-Database-informational?style=for-the-badge&logo=mysql"/>
 </p>
+<p align="center">
+
+<img src="https://komarev.com/ghpvc/?username=subham149&label=PROFILE+VIEWS&color=0e75b6&style=for-the-badge" />
+
+<img src="https://img.shields.io/github/followers/subham149?style=for-the-badge&logo=github&color=00F7FF" />
+
+<img src="https://img.shields.io/github/stars/subham149?style=for-the-badge&logo=github&color=FFD700" />
+
+</p>
 
 ---
-
 ## 👨‍💻 About Me
 
 🚀 Passionate Java Full Stack Developer focused on building responsive frontend interfaces and scalable backend applications using Spring Boot and React.  
