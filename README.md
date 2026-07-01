@@ -102,8 +102,12 @@
 <p align="center">
   <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=subham149&theme=dark&hide_border=false&layout=compact"/>
 </p>
-
----
+<p align="center">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JSP-Java%20Server%20Pages-orange?style=for-the-badge&logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Servlet-6DB33F?style=for-the-badge&logo=apachetomcat&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>
+</p>
 
 ## 📈 Contribution Graph
 
