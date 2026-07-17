@@ -119,7 +119,7 @@
 
 ✨ Beautiful Design
 
-<a href="https://subham149.github.io/Human-Stories-Frontend-Project/">
+<a href="https://subham149.github.io/Humar-Stories-FrontEnd-Project/">
 
 <img src="https://img.shields.io/badge/🚀_Live_Demo-E91E63?style=for-the-badge"/>
 
