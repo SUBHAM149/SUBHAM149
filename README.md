@@ -44,44 +44,91 @@
 
 ---
 
-# 🌟 Featured Live Projects
-
-## 🔹 Bhadrak Autonomous College Project
-
-🔗 Live: https://subham149.github.io/Bhadrak-Autonomous-College/
+<h1 align="center">
+✨ Featured Live Projects ✨
+</h1>
 
 <p align="center">
-<img src="https://media.giphy.com/media/l0MYC0LajbaPoEADu/giphy.gif" width="280"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=3000&color=00F7FF&center=true&vCenter=true&width=700&lines=Professional+Frontend+Projects;Responsive+Web+Applications;Built+with+HTML+CSS+JavaScript" />
 </p>
 
-🛠️ HTML • CSS • JavaScript  
-✨ Clean layout • Smooth animations • Professional UI
+<table>
+<tr>
 
----
+<td align="center" width="33%">
 
-## 🔹 Personal Portfolio Website
+<img src="https://media.giphy.com/media/l0MYC0LajbaPoEADu/giphy.gif" width="220"/>
 
-🔗 Live: https://subham149.github.io/Personal-Portfolio-Frontend-Project/
+## 🎓 Bhadrak Autonomous College
 
-<p align="center">
-<img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="280"/>
-</p>
+<img src="https://img.shields.io/badge/HTML-orange?style=for-the-badge&logo=html5"/>
+<img src="https://img.shields.io/badge/CSS-blue?style=for-the-badge&logo=css3"/>
+<img src="https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript"/>
 
-🛠️ HTML • CSS • JavaScript  
-✨ Modern design • Responsive layout • Smooth transitions
+✨ Professional UI
 
----
+✨ Smooth Animations
 
-## 🔹 Human Stories Website
+✨ Responsive Design
 
-🔗 Live: https://subham149.github.io/Human-Stories-Frontend-Project/
+<a href="https://subham149.github.io/Bhadrak-Autonomous-College/">
 
-<p align="center">
-<img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="280"/>
-</p>
+<img src="https://img.shields.io/badge/🚀_Live_Demo-00C853?style=for-the-badge"/>
 
-🛠️ HTML • CSS • JavaScript  
-✨ Storytelling design • Clean typography • Interactive experience
+</a>
+
+</td>
+
+<td align="center" width="33%">
+
+<img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="220"/>
+
+## 👨‍💻 Personal Portfolio
+
+<img src="https://img.shields.io/badge/HTML-orange?style=for-the-badge&logo=html5"/>
+<img src="https://img.shields.io/badge/CSS-blue?style=for-the-badge&logo=css3"/>
+<img src="https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript"/>
+
+✨ Modern Design
+
+✨ Responsive
+
+✨ Portfolio UI
+
+<a href="https://subham149.github.io/Personal-Portfolio-Frontend-Project/">
+
+<img src="https://img.shields.io/badge/🚀_Live_Demo-2962FF?style=for-the-badge"/>
+
+</a>
+
+</td>
+
+<td align="center" width="33%">
+
+<img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="220"/>
+
+## 📖 Human Stories
+
+<img src="https://img.shields.io/badge/HTML-orange?style=for-the-badge&logo=html5"/>
+<img src="https://img.shields.io/badge/CSS-blue?style=for-the-badge&logo=css3"/>
+<img src="https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript"/>
+
+✨ Storytelling UI
+
+✨ Interactive
+
+✨ Beautiful Design
+
+<a href="https://subham149.github.io/Human-Stories-Frontend-Project/">
+
+<img src="https://img.shields.io/badge/🚀_Live_Demo-E91E63?style=for-the-badge"/>
+
+</a>
+
+</td>
+
+</tr>
+</table>
 
 ---
 
