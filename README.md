@@ -177,21 +177,38 @@
 
 ---
 
-
-## 🤝 Connect With Me
+<h2 align="center">🌐 Connect With Me</h2>
 
 <p align="center">
-  <a href="https://github.com/subham149">
-    <img src="https://img.shields.io/badge/GitHub-Profile-2ea44f?style=for-the-badge&logo=github&logoColor=white"/>
+  <a href="https://github.com/SUBHAM149" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
+  &nbsp;
+  <a href="https://t.@SUBHAM_B" target="_blank">
+    <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="https://www.linkedin.com/in/SUBHAM" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="https://www.instagram.com/SUBHAM" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="https://SUBHAM149.github.io/About-Me/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+</p>
 
-  <a href="https://www.linkedin.com/in/subham-behera07">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
+<br>
 
-  <a href="mailto:subhambehera04.03.2005@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-Send%20Mail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
+<p align="center">
+  <img src="https://img.shields.io/badge/🟢%20Available%20for%20Work-00C853?style=for-the-badge" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/🤝%20Open%20to%20Collaboration-FF9800?style=for-the-badge" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/⚡%20Quick%20Response-2962FF?style=for-the-badge" />
 </p>
 
 ---
