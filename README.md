@@ -163,14 +163,20 @@
 </p>
 
 ---
+## 🏆 Unlocked Achievements
 
-## 🏆 GitHub Trophies
+<div align="center" dir="auto">
+<img src="https://github-profile-trophy.screw-hand.vercel.app/?username=SUBHAM149&theme=dark_dimmed&no-bg=true&no-frame=true&row=1&column=6&margin-w=8&margin-h=8" width="85%" />
+</div>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=subham149&theme=radical&no-frame=false&no-bg=true&margin-w=4"/>
-</p>
+<br/>
+
+<div align="center" dir="auto">
+  <code>🏆 TROPHY_CASE: FULL_WIDTH / MAXIMUM_GLORY 🏆</code>
+</div>
 
 ---
+
 
 ## 🤝 Connect With Me
 
