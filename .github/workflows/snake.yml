@@ -1,3 +1,4 @@
+
 name: GitHub Snake Game
 
 on:
@@ -58,11 +59,11 @@ jobs:
 
           outputs: |
 
-            dist/github-snake.svg?color_snake=#ff005c&color_dots=#161b22,#ff005c,#ff005c,#b62bff,#ffd400
+            dist/github-snake.svg?color_snake=%23ff005c&color_dots=%23161b22,%23ff005c,%23ff005c,%23b62bff,%23ffd400
 
-            dist/github-snake-dark.svg?color_snake=#ff005c&color_dots=#161b22,#ff005c,#ff005c,#b62bff,#ffd400
+            dist/github-snake-dark.svg?color_snake=%23ff005c&color_dots=%23161b22,%23ff005c,%23ff005c,%23b62bff,%23ffd400
 
-            dist/ocean.gif?color_snake=#ff005c&color_dots=#161b22,#ff005c,#ff005c,#b62bff,#ffd400
+            dist/ocean.gif?color_snake=%23ff005c&color_dots=%23161b22,%23ff005c,%23ff005c,%23b62bff,%23ffd400
 
         env:
 
@@ -86,3 +87,4 @@ jobs:
           # Optionally, you can set a custom commit message
 
           commit_message: "Update snake animation [skip ci]"
+
