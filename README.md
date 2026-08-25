@@ -43,7 +43,68 @@
 </p>
 
 ---
+# 🏦 Banking Management System
 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Welcome+to+Smart+Bank+%F0%9F%92%B3;Secure+%7C+Simple+%7C+Reliable+%F0%9F%9A%80" />
+</p>
+
+<p align="center">
+  <a href="https://banking-app-1-phzs.onrender.com/">
+    <img src="https://img.shields.io/badge/%F0%9F%8C%90%20LIVE%20APPLICATION-OPEN%20NOW-0A66C2?style=for-the-badge" />
+  </a>
+</p>
+
+
+
+<h2 align="center">✨ Features</h2>
+
+<div align="center">
+
+|    🏦 **Banking**   | ⚡ **Operations** | 🛠️ **Technology** |
+| :-----------------: | :--------------: | :----------------: |
+|    Create Account   |    💰 Deposit    |      ☕ Java 21     |
+|    View Accounts    |    💸 Withdraw   |   🍃 Spring Boot   |
+|   Manage Accounts   |    🔄 Transfer   |      🗄️ MySQL     |
+| Customer Management |  📊 Transactions |     🔗 REST API    |
+
+</div>
+
+
+
+<h2 align="center">🚀 Tech Stack</h2>
+
+<p align="center">
+  ☕ Java 21 &nbsp;•&nbsp;
+  🍃 Spring Boot &nbsp;•&nbsp;
+  🗄️ MySQL &nbsp;•&nbsp;
+  🔗 REST API &nbsp;•&nbsp;
+  📚 Swagger &nbsp;•&nbsp;
+  🎨 HTML/CSS &nbsp;•&nbsp;
+  ⚡ JavaScript &nbsp;•&nbsp;
+  🅱️ Bootstrap
+</p>
+
+
+
+<h2 align="center">🌐 Live Application</h2>
+
+<p align="center">
+  <a href="https://banking-app-1-phzs.onrender.com/">
+    <b>🚀 Open Banking Application</b>
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/●%20LIVE-success?style=flat-square" />
+  <img src="https://img.shields.io/badge/☁️%20RENDER-purple?style=flat-square" />
+</p>
+
+<p align="center">
+  💳 <b>Bank Smart • Bank Simple • Bank Secure</b> 💳
+</p>
+
+---
 <h1 align="center">
 ✨ Featured Live Projects ✨
 </h1>
