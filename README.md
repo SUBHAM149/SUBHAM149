@@ -50,7 +50,7 @@
 </p>
 
 <p align="center">
-  <a href="https://banking-app-1-phzs.onrender.com/">
+  <a href="https://banking-app-3-86q7.onrender.com">
     <img src="https://img.shields.io/badge/%F0%9F%8C%90%20LIVE%20APPLICATION-OPEN%20NOW-0A66C2?style=for-the-badge" />
   </a>
 </p>
