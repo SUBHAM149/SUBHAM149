@@ -90,7 +90,7 @@
 <h2 align="center">🌐 Live Application</h2>
 
 <p align="center">
-  <a href="https://banking-app-1-phzs.onrender.com/">
+  <a href="https://banking-app-3-86q7.onrender.com">
     <b>🚀 Open Banking Application</b>
   </a>
 </p>
