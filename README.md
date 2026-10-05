@@ -249,7 +249,7 @@
     <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" />
   </a>
   &nbsp;
-  <a href="https://www.linkedin.com/in/SUBHAM" target="_blank">
+  <a href="https://www.linkedin.com/in/subham-behera07" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   &nbsp;
