@@ -35,11 +35,18 @@
 🌱 Learning Spring Boot, React, REST APIs & MySQL
 
 ---
+<!-- ========================================================= -->
 
-## 🛠️ Tech Stack
+<!--                    TECHNOLOGY MATRIX                       -->
+
+<!-- ========================================================= -->
+
+<h2 align="center">⚡ Technology Matrix</h2>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,react,java,spring,mysql,git,github,vscode,eclipse" />
+  <img width="1664" height="936"
+       alt="Technology Matrix"
+       src="https://github.com/user-attachments/assets/45e88119-2d01-4e84-895c-580287d27a03" />
 </p>
 
 ---
@@ -217,11 +224,15 @@
   <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>
 </p>
 
-## 📈 Contribution Graph
+<!-- ========================================================= -->
 
-<p align="center">
- <img src="https://github-readme-activity-graph.vercel.app/graph?username=SUBHAM149&bg_color=0D1117&color=00F5FF&line=FF00C8&point=FFE600&area=true&hide_border=true" />
-</p>
+<!-- CONTRIBUTION GRAPH -->
+
+<!-- ========================================================= -->
+
+<h2 align="center">🐍 Contribution Activity</h2>
+
+<p align="center"> <img width="1664" height="936" alt="Contribution Graph" src="https://github.com/user-attachments/assets/902d2c1c-738a-4f4b-a090-c47830a774f8" /> </p>
 
 ---
 ## 🏆 Unlocked Achievements
