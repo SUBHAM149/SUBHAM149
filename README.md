@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Subham Behera</h1>
 
-<h3 align="center">Java Full Stack Developer | Naresh IT Technologies</h3>
+<h3 align="center">Java Full Stack Developer Intern | Internmo</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=0D6EFD&size=24&center=true&vCenter=true&width=750&lines=Java+Full+Stack+Developer;Frontend+%7C+Backend+%7C+Database;Spring+Boot+%7C+React+%7C+MySQL;Building+Premium+Web+Applications" />
